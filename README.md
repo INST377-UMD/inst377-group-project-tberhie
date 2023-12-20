@@ -1,3 +1,6 @@
+# Vercel Link
+https://377-final-no-lfs-21io-ms-projects-a6d3b8e5.vercel.app/
+
 # COVID-19: An Information Archive
 
 This project has one simple goal: to inform people about COVID-19. This goal is achieved using a website and free use API.
